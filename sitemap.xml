@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://t3b04-hg-room-pr.pages.dev/</loc>
+    <loc>https://hwagok-room-info.hardcoreroom.com/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://t3b04-hg-room-pr.pages.dev/about.html</loc>
+    <loc>https://hwagok-room-info.hardcoreroom.com/about.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://t3b04-hg-room-pr.pages.dev/blog.html</loc>
+    <loc>https://hwagok-room-info.hardcoreroom.com/blog.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://t3b04-hg-room-pr.pages.dev/feed.xml</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>
